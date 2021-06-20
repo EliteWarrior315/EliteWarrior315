@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bhaveshsuneja@outlook.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1d46XR_qbBb9pRrd4nP40XnDIAHymiEls/view?usp=sharing](https://drive.google.com/file/d/1d46XR_qbBb9pRrd4nP40XnDIAHymiEls/view?usp=sharing)
+- 📄 To know about my experiences [**click here**](https://drive.google.com/file/d/1d46XR_qbBb9pRrd4nP40XnDIAHymiEls/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
