@@ -1,6 +1,8 @@
 <h1 align="center">Hola, I'm Bhavesh Suneja</h1>
 <h3 align="center">A Computer enthusiast</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elitewarrior315&label=Profile%20views&color=0e75b6&style=plastic" alt="elitewarrior315" /> </p>
+
 - 🔭 I’m currently working on [Inventory Maker](https://github.com/EliteWarrior315/InventoryMaker)
 
 - 🌱 I’m currently learning **Javascript**
